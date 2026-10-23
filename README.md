@@ -2,7 +2,7 @@
 
 An AI-powered Security Operations Center (SOC) investigation platform designed to help analysts investigate security alerts more efficiently.
 
-This project combines alert analysis, IOC extraction, event correlation, historical case retrieval, and local LLM capabilities to provide context-driven investigations. The platform also learns from previous analyst decisions, allowing knowledge from confirmed attacks and false positives to be reused in future investigations.
+This project combines AI alert analysis, IOC extraction, event correlation, historical case retrieval, and local LLM capabilities to provide context-driven investigations. The platform also learns from previous analyst decisions, allowing knowledge from confirmed attacks and false positives to be reused in future investigations.
 
 ## Why I Built This
 
