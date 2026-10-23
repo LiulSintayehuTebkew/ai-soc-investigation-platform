@@ -90,3 +90,20 @@ Liul Sintayehu Tebkew
 Computer Science Gold Medalist and Cybersecurity Master's Student with interests in cybersecurity, artificial intelligence and enterprise technologies.
 
 This project was built as part of my exploration of applying AI to real-world SOC investigations and security operations workflows.
+
+## Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard-screenshot.png)
+
+### Investigation Results
+![Investigation Results](screenshots/investigation.png)
+
+### Organizational Memory & Historical Knowledge Retrieval
+![Organizational Memory](screenshots/organizational-memory.png)
+
+### IOC Collection
+![IOC Collector](screenshots/ioc-collector.png)
+
+### Analyst Feedback & Report Download
+![Feedback and Report Download](screenshots/feedback-and-report-download.png)
