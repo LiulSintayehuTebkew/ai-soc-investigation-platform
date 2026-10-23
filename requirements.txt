@@ -1,0 +1,9 @@
+streamlit
+requests
+pandas
+flask
+requests
+streamlit
+chromadb
+sentence-transformers
+transformers

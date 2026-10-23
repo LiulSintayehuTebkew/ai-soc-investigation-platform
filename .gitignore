@@ -1,0 +1,11 @@
+__pycache__/
+knowledge_db/
+storage.json
+
+.env
+.streamlit/
+
+venv/
+env/
+
+*.pyc
